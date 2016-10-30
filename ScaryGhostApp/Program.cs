@@ -16,7 +16,7 @@ namespace ScaryGhostApp
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Ghost());
+            Application.Run(new Ghsot());
         }
     }
 }
