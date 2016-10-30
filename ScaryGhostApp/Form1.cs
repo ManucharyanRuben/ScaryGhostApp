@@ -11,7 +11,7 @@ using System.Media;
 
 namespace ScaryGhostApp
 {
-    public partial class Form1 : Form
+    public partial class Ghost :  Form //test
     {
         int k = 0;
         int p = 0;
@@ -21,7 +21,7 @@ namespace ScaryGhostApp
         //   SoundPlayer players = new SoundPlayer(@"C:\scream.wav");
 
 
-        public Form1()
+        public Ghost()
         {
             InitializeComponent();
         }
